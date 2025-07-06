@@ -11,3 +11,5 @@ robustness of the error detection and correction mechanism.
 bits to signal amplitudes and accurately recovering them through demodulation.
 
 ∗ Syndrome Checking and Error Detection/Correction : Used syndrome bits to identify the location of a singlebit error and correct it. Detected two-bit errors and parity mismatch errors to ensure system reliability.
+
+Simulate it on EDA playgroud: https://edaplayground.com/x/HGdB
